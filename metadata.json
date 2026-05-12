@@ -1,0 +1,5 @@
+{
+  "name": "QR Code Styling",
+  "description": "A powerful and customizable QR code generator with styling options, inspired by the open-source qr-code-styling library.",
+  "requestFramePermissions": []
+}
